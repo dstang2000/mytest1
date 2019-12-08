@@ -17,4 +17,5 @@ f.close()
 turtle.up(100)
 
 sing("李明")
+
 print("hello")
